@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ducat/static/css/main.214ce56c.css",
+    "main.js": "/ducat/static/js/main.947790b9.js",
+    "static/js/787.9f15c2d0.chunk.js": "/ducat/static/js/787.9f15c2d0.chunk.js",
+    "static/media/asset1.png": "/ducat/static/media/asset1.8960628e895ab3f71bf5.png",
+    "static/media/assetbg.png": "/ducat/static/media/assetbg.6b63cf79124ae58b5ee7.png",
+    "static/media/blogbg.png": "/ducat/static/media/blogbg.49cafc0e2e897aed9007.png",
+    "static/media/contactusbg.jpeg": "/ducat/static/media/contactusbg.6ab76e1a8bdb8d0f40b4.jpeg",
+    "static/media/asset11.png": "/ducat/static/media/asset11.ac5cc1edae28e3741537.png",
+    "static/media/asset19.png": "/ducat/static/media/asset19.86bf1b50a30325e5e42e.png",
+    "index.html": "/ducat/index.html",
+    "main.214ce56c.css.map": "/ducat/static/css/main.214ce56c.css.map",
+    "main.947790b9.js.map": "/ducat/static/js/main.947790b9.js.map",
+    "787.9f15c2d0.chunk.js.map": "/ducat/static/js/787.9f15c2d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214ce56c.css",
+    "static/js/main.947790b9.js"
+  ]
+}
